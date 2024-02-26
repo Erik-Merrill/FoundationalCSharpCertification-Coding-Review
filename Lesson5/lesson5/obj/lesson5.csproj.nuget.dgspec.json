@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Lesson5\\lesson5\\lesson5.csproj": {}
+    "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\lesson5\\lesson5\\lesson5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Lesson5\\lesson5\\lesson5.csproj": {
+    "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\lesson5\\lesson5\\lesson5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Lesson5\\lesson5\\lesson5.csproj",
+        "projectUniqueName": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\lesson5\\lesson5\\lesson5.csproj",
         "projectName": "lesson5",
-        "projectPath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Lesson5\\lesson5\\lesson5.csproj",
+        "projectPath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\lesson5\\lesson5\\lesson5.csproj",
         "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Lesson5\\lesson5\\obj\\",
+        "outputPath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\lesson5\\lesson5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config"
