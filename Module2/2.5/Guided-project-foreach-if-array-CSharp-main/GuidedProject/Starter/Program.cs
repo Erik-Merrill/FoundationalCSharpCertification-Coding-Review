@@ -23,16 +23,12 @@ foreach (string name in studentNames)
     string currentStudent = name;
     if (currentStudent == "Sophia")
         studentScores = sophiaScores;
-
     else if (currentStudent == "Andrew")
         studentScores = andrewScores;
-
     else if (currentStudent == "Emma")
         studentScores = emmaScores;
-
     else if (currentStudent == "Logan")
         studentScores = loganScores;
-
     else if (currentStudent == "Becky")
         studentScores = beckyScores;
     else if (currentStudent == "Chris")
