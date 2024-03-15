@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VWLkf3PaQkMTnrJJMpveHOgKtk1n9nlGL6sdn0BM/m1CqDH3AHZZ8j1mr+lJY3bWJlxndddHx8qN77waEd5Gwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Module4\\4.6\\Guided-project-Work-with-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
