@@ -1,0 +1,15 @@
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\bin\Debug\net8.0\5.1.exe
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\bin\Debug\net8.0\5.1.deps.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\bin\Debug\net8.0\5.1.runtimeconfig.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\bin\Debug\net8.0\5.1.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\bin\Debug\net8.0\5.1.pdb
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.AssemblyInfoInputs.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.AssemblyInfo.cs
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.sourcelink.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\refint\5.1.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.pdb
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\5.1.genruntimeconfig.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module5\5.1\obj\Debug\net8.0\ref\5.1.dll
