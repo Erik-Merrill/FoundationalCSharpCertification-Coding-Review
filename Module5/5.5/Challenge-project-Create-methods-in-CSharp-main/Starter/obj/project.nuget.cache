@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3YdNuv2sFt33On9eFfKf+TwHifhz2eB0Xi/NnU9lWoTQB7EcPw79wFfjd8TduIVk0pyV/uOMhkD5LCvwNtPrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\Programing\\FoundationalC#CertificationPractice\\Module5\\5.5\\Challenge-project-Create-methods-in-CSharp-main\\Starter\\Starter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Erik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
