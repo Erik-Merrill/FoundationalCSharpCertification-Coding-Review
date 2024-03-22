@@ -1,0 +1,15 @@
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\bin\Debug\net8.0\Debug101.exe
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\bin\Debug\net8.0\Debug101.deps.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\bin\Debug\net8.0\Debug101.runtimeconfig.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\bin\Debug\net8.0\Debug101.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\bin\Debug\net8.0\Debug101.pdb
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfoInputs.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.AssemblyInfo.cs
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.sourcelink.json
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\refint\Debug101.dll
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.pdb
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\Debug101.genruntimeconfig.cache
+C:\Users\Erik\Programing\FoundationalC#CertificationPractice\Module6\Debug101\obj\Debug\net8.0\ref\Debug101.dll
